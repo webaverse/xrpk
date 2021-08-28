@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/webaverse/xrpk.git"
@@ -17,5 +16,8 @@
   "homepage": "https://github.com/webaverse/xrpk#readme",
   "browserslist": [
     "last 1 chrome version"
-  ]
+  ],
+  "dependencies": {
+    "formdata-node": "^4.0.1"
+  }
 }

@@ -18,6 +18,8 @@
     "last 1 chrome version"
   ],
   "dependencies": {
-    "formdata-node": "^4.0.1"
+    "form-data-encoder": "^1.5.1",
+    "formdata-node": "^4.0.1",
+    "node-fetch": "^2.6.1"
   }
 }

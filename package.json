@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "bin": {
-    "xrpk": "node ./index.js"
+    "xrpk": "./index.js"
   },
   "repository": {
     "type": "git",
